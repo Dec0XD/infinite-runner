@@ -13,7 +13,7 @@
 <br>
 
 <p align="center">  
-Criação do zero de um jogo de mundo indfinito baseado em jetpack joyride.
+Criação do zero de um jogo de mundo infinito baseado em jetpack joyride.
 Projeto ainda em produção até agora foram criados fundo e chão, junto com a movimentação do personagem.
 
 </p>
@@ -30,7 +30,7 @@ Esse projeto foi desenvolvido com a seguinte tecnologia:
 
 ## 💻 Projeto
 
-Projeto feito em Python durante como aprendizado para um projeto maior.
+Projeto feito em Python como aprendizado para desenvolver um projeto maior.
 
 <br>
 
