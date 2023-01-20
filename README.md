@@ -22,7 +22,7 @@ Projeto ainda em produção até agora foram criados fundo e chão, junto com a 
 
 ## 🚀 Tecnologias
 
-Esse projeto foi desenvolvido com a seguinte tecnologias:
+Esse projeto foi desenvolvido com a seguinte tecnologia:
 
 - Python
 
