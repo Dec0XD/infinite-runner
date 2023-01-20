@@ -1,4 +1,4 @@
-<img alt="View_jogo" src="sprites/Speed_Runner.png" width="30%">
+<img alt="View_jogo" src="sprites/Speed_Runner.png" width="30%" align="center">
 
 <h1 align="center"> Jogo Infinite Runner </h1>
 
